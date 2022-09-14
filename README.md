@@ -59,4 +59,12 @@ https://www.phpmanager.xyz/
 
 ![image](https://user-images.githubusercontent.com/20743678/190082859-90aa0b02-3e5f-425c-8b18-6010481b0299.png)
 
+![image](https://user-images.githubusercontent.com/20743678/190086815-6b5ea9ef-13ef-4062-b5aa-fde8149742df.png)
 
+![image](https://user-images.githubusercontent.com/20743678/190087006-d54919c7-5707-4dbc-94f8-05e488af0201.png)
+
+### 5. CONFIGURACION
+
+![image](https://user-images.githubusercontent.com/20743678/190087387-a3352cb5-c1b4-475e-b38e-68045e62c849.png)
+
+![image](https://user-images.githubusercontent.com/20743678/190087542-20ea7e4c-dcdb-4146-b9cb-a7ecc3203d5a.png)
