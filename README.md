@@ -67,4 +67,8 @@ https://www.phpmanager.xyz/
 
 ![image](https://user-images.githubusercontent.com/20743678/190087387-a3352cb5-c1b4-475e-b38e-68045e62c849.png)
 
-![image](https://user-images.githubusercontent.com/20743678/190087542-20ea7e4c-dcdb-4146-b9cb-a7ecc3203d5a.png)
+![image](https://user-images.githubusercontent.com/20743678/190087795-d7435760-0323-417b-be58-027c7488f1d9.png)
+
+![image](https://user-images.githubusercontent.com/20743678/190087943-1a793c8f-88be-4f9c-8522-e6d35e3fde31.png)
+
+
