@@ -94,3 +94,7 @@ Cerrar el administrador de IIS y volver a abrirlo
 ![image](https://user-images.githubusercontent.com/20743678/190098154-0a1c786e-af43-4aac-a78a-b0198e61e475.png)
 
 ![image](https://user-images.githubusercontent.com/20743678/190098505-6575faa9-c3a9-49e1-8eb6-0e69efd6f876.png)
+
+Contenido de UPLOAD a /
+
+![image](https://user-images.githubusercontent.com/20743678/190099594-3a43c7f2-c781-4ccd-a3f4-c33d6c958774.png)
