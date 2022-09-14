@@ -75,5 +75,22 @@ Cerrar el administrador de IIS y volver a abrirlo
 
 ![image](https://user-images.githubusercontent.com/20743678/190089526-b296d635-9bf7-469f-b93f-666d80f2bb84.png)
 
+![image](https://user-images.githubusercontent.com/20743678/190096999-173292be-0fe1-44f0-b234-46d09d97677b.png)
 
+![image](https://user-images.githubusercontent.com/20743678/190097177-5151217d-6642-45d3-b071-c3c088da6a1e.png)
 
+![image](https://user-images.githubusercontent.com/20743678/190097305-37a9d6b4-44fe-4794-96f2-2268a8de6daf.png)
+
+### 6. INSTALACION DE OS TICKET
+
+![image](https://user-images.githubusercontent.com/20743678/190097531-2456b393-7fb3-44c3-85ac-7ec5c25b3fa7.png)
+
+![image](https://user-images.githubusercontent.com/20743678/190097746-e45d3bc6-c810-473b-8663-c8d662ed361c.png)
+
+![image](https://user-images.githubusercontent.com/20743678/190097894-41613b2a-c060-4243-8342-5ef55f5321ae.png)
+
+![image](https://user-images.githubusercontent.com/20743678/190098002-538abad2-ceac-43e0-b421-9123807d3d92.png)
+
+![image](https://user-images.githubusercontent.com/20743678/190098154-0a1c786e-af43-4aac-a78a-b0198e61e475.png)
+
+![image](https://user-images.githubusercontent.com/20743678/190098505-6575faa9-c3a9-49e1-8eb6-0e69efd6f876.png)
