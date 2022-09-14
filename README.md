@@ -14,6 +14,8 @@ SGFDASDF
 
 ### 2. INSTALACIÓN DE PHP
 
+![image](https://user-images.githubusercontent.com/20743678/190082233-d32582ab-a434-48a0-bbf2-6994313d785b.png)
+
 https://windows.php.net/downloads/releases/php-8.0.17-nts-Win32-vs16-x64.zip
 
 ![image](https://user-images.githubusercontent.com/20743678/190077537-8eff03dd-fd09-44c9-a562-84a4094bfcac.png)
@@ -32,4 +34,21 @@ https://windows.php.net/downloads/releases/php-8.1.10-nts-Win32-vs16-x64.zip
 
 ![image](https://user-images.githubusercontent.com/20743678/190080639-9d424d32-8f94-414b-af73-ad41c123ac04.png)
 
-### INSTALACION DE MARIA DB
+![image](https://user-images.githubusercontent.com/20743678/190080960-f6ef7feb-71ef-41b6-8d80-517ecb59d62a.png)
+
+
+### 3. INSTALACION DE MARIA DB
+
+![image](https://user-images.githubusercontent.com/20743678/190081285-202d4112-49ef-446c-9957-a181d6da9bc7.png)
+
+![image](https://user-images.githubusercontent.com/20743678/190081602-d99dfa89-d8ed-496b-8328-411a0df7049d.png)
+
+![image](https://user-images.githubusercontent.com/20743678/190081829-db1301aa-1b4e-4b2b-b5a0-50ae567c491f.png)
+
+![image](https://user-images.githubusercontent.com/20743678/190081903-59a76f34-924c-49b8-85f1-9e9d9d4ba019.png)
+
+### 4. INSTALACION DE PHP MANAGER FOR IIS
+
+![image](https://user-images.githubusercontent.com/20743678/190082137-c141be74-988d-42c4-868e-8cd62690bc21.png)
+
+
