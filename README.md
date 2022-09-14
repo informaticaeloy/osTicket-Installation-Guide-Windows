@@ -69,6 +69,11 @@ https://www.phpmanager.xyz/
 
 ![image](https://user-images.githubusercontent.com/20743678/190087795-d7435760-0323-417b-be58-027c7488f1d9.png)
 
-![image](https://user-images.githubusercontent.com/20743678/190087943-1a793c8f-88be-4f9c-8522-e6d35e3fde31.png)
+![image](https://user-images.githubusercontent.com/20743678/190089041-e3cf195e-e5c3-4d1a-9af8-a65846b6078b.png)
+
+Cerrar el administrador de IIS y volver a abrirlo
+
+![image](https://user-images.githubusercontent.com/20743678/190089526-b296d635-9bf7-469f-b93f-666d80f2bb84.png)
+
 
 
