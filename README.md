@@ -1,8 +1,17 @@
 # osTicket-Installation-Guide-Windows
 Guía de instalación de osTicket Core, v1.17-rc4 en Windows 10
 
+### 0.666
+
+Ver última parte antes de instalar. Al final fue imposible hacer funcionar
+
+:'(
+
 ### 0.  PRERREQUISITOS
-SGFDASDF
+
+To install osTicket, your web server must have PHP 8.0 and MySQL 5.0 (or better) installed. If you are unsure whether your server meets these requirements, please check with your host or webmaster before proceeding with the installation.
+
+You will need one MySQL database with valid user, password and hostname handy during installation. MySQL user must have FULL privileges on the database. If you are unsure whether you have these details or if the user has sufficient permissions, please consult your host or database admin before proceeding.
 
 ### 1. CONFIGURACIÓN DE IIS
 
@@ -104,3 +113,6 @@ Contenido de UPLOAD a /
 ![image](https://user-images.githubusercontent.com/20743678/190104574-b6d96312-5cc5-4a18-8a9e-53ff769ca7b9.png)
 
 
+### 7. CONCLUSION FINAL
+
+No pude terminar de configurar todas las dependencias del IIS para el PHP . Abando y pruebo con Ubuntu y Apache
